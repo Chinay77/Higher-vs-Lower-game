@@ -17,11 +17,11 @@ python3 Higher-vs-Lower-game.pynb
 
 ## Screenshots
 
-![1](https://raw.githubusercontent.com/kushagra-19/Sudoku/main/Screenshot%20(25).png)
+![1](https://raw.githubusercontent.com/Chinay77/Higher-vs-Lower-game/main/Screenshot%202022-05-14%20155159.png)
 
-![2](https://raw.githubusercontent.com/kushagra-19/Sudoku/main/sudoku.png)
+![2](https://raw.githubusercontent.com/Chinay77/Higher-vs-Lower-game/main/Screenshot%202.png)
 
-![3](https://raw.githubusercontent.com/kushagra-19/Sudoku/main/solved%20sudoku.png)
+![3](https://raw.githubusercontent.com/Chinay77/Higher-vs-Lower-game/main/3.png)
 
 
 
