@@ -30,7 +30,4 @@ python3 Higher-vs-Lower-game.pynb
 
 ## Authors
 
-* * Chinay Bohara* 
-
-## Acknowledgements
-* [Pygame Documentations](https://www.pygame.org/docs/)
+*  Chinay Bohara* 
